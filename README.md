@@ -1,12 +1,11 @@
-# ID_assg1_S10206327
-# ID_assg1_S10206327
+
 
 # ID_assg1_S10206327
-# ID_assg1
 
-# Website page : https://jitterycreepyapi.herman08.repl.co/
-# Student Id:S10206327
-# Band Website ID assignment 1
+
+## Website page : https://jitterycreepyapi.herman08.repl.co/
+## Student Id:S10206327
+## Band Website ID assignment 1
 
 # introduction
 This project is to design and create a  website for a band consisitng of 2 members,with an aim in mind for potential viewers/fans to better understand the band and their music . This project also aims to provide external links to the band's music , band's store and social media pages for users to explore and gain a deeper understanding of the band's music,band's personality.
