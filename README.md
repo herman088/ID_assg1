@@ -4,7 +4,7 @@
 
 
 ## Website page : https://jitterycreepyapi.herman08.repl.co/
-## Student Id:S10206327
+
 ## Band Website ID assignment 1
 
 # introduction
