@@ -61,7 +61,7 @@ To keep it simple for users to navigate and view our page,a single scroll format
 # Technology used
 
 * html - source code
-*c ss - external stylesheet to source code
+* css - external stylesheet to source code
 
 
 # Credits
