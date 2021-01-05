@@ -97,9 +97,9 @@ To keep it simple for users to navigate and view our page,a single scroll format
 "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
 "https://www.songkick.com/festivals/631-pinkpop/id/39592184-pinkpop-festival-2021?utm_source=46422&utm_medium=partner"
 
- https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/1/1/1100x1100-sweatshirt2_1.png
- https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/1/1/1100x1100-yellowhat_1.png
- https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/t/o/top_vesselvinyl.jpg
- https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/t/o/top_webstore_newstore_itemcutouts_1100x1100_symbolic_a_hoodie.jpg
-  https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/1/1/1100x1100-bundle10_1_1.png
-  https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/t/w/twentyonepilots_redbeanie.jpg
+ * https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/1/1/1100x1100-sweatshirt2_1.png
+ * https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/1/1/1100x1100-yellowhat_1.png
+* https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/t/o/top_vesselvinyl.jpg
+* https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/t/o/top_webstore_newstore_itemcutouts_1100x1100_symbolic_a_hoodie.jpg
+  * https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/1/1/1100x1100-bundle10_1_1.png
+  * https://img.secure.cdn2.wmgecom.com/media/catalog/product/cache/173/small_image/308x/9df78eab33525d08d6e5fb8d27136e95/t/w/twentyonepilots_redbeanie.jpg
