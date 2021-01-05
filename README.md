@@ -88,6 +88,9 @@ To keep it simple for users to navigate and view our page,a single scroll format
 * Click get tickets in tour section and will redirect to band's ticketing site
 * Click on videos to view videos on site
 
+* CSS Validator for css code https://jigsaw.w3.org/css-validator/
+* HTML Validator for css code https://validator.w3.org/
+
 # Others
 "https://store.twentyonepilots.com/"
 "https://www.instagram.com/twentyonepilots/?hl=en" 
