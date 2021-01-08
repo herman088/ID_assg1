@@ -3,7 +3,8 @@
 # ID_assg1_S10206327
 
 
-## Website page : https://jitterycreepyapi.herman08.repl.co/
+## Website page : https://jitterycreepyapi.herman08.repl.co/  ,https://herman088.github.io/ID_assg1/
+
 
 ## Band Website ID assignment 1
 
