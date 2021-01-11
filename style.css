@@ -1,0 +1,281 @@
+body{
+
+
+ background-image:url("https://images4.alphacoders.com/788/788499.jpg");
+   
+   
+   background-repeat: no-repeat;
+   
+  
+   width:100vw;
+   height:70vh;
+ 
+}
+
+
+
+ .nameBand{
+  text-align:center;
+  justify-content: center;
+  font-family:"Anton";
+  color:greenyellow;
+  font-size:30px;
+  
+  }
+  
+  
+  
+  .flexnavbar{
+  display : flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+  font-size:15px;
+  }
+  
+  .flexnavbar > a{
+  color:white;
+  text-transform: uppercase;
+  font-family:"Goldman";
+  }
+  
+
+  .flexform{
+
+     color: white;
+   justify-content: center;
+   margin-top:150px;
+   
+  }
+
+  .flex21{
+  
+  display : flex;
+ 
+  flex-wrap: wrap;
+  justify-content: space-around;
+  font-size:15px;
+
+  }
+
+
+  .flex21 > div,a{
+  
+  color:gold;
+  font-family:"Goldman";
+  font-weight: bold;
+
+  }
+  .flex{
+   color: white;
+   justify-content: center;
+   
+   position: static;
+   flex-wrap: wrap;
+   margin-top:100px;
+  }
+  
+  
+  
+  .flexinfo{
+ 
+  display: flex;
+  
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap:wrap;
+  height:300px;
+  padding-top:30px;
+  padding-left:30px;
+  font-family:"goldman";
+  background-image:url("https://astronomy.com/-/media/Images/Beehive.jpg");
+  
+  }
+
+  
+    
+
+   .flexinfo> p{
+
+    font-size:15px;
+    
+    color:white;
+  }
+
+
+  
+
+
+  
+ 
+
+
+
+
+  .album{
+    
+
+ 
+  flex-wrap:wrap;
+  width:100vw;
+  height:350px;
+  flex-direction: row;
+  justify-content: space-around;
+  background-image:url("https://i.redd.it/sv7c923j43f11.jpg");
+  background-size : 1920px 350px;
+  
+  
+
+  }
+
+
+
+  
+
+ 
+@media only screen and (max-width: 750px) {
+  .imageeAlbum {
+     width:40%;
+    height:auto}
+    
+  
+  }
+
+  
+
+
+  .flexTour{
+ 
+  background-image:url("https://www.teahub.io/photos/full/293-2936355_1920x1080-twenty-one-pilots-live-wallpapers-twenty-one.jpg");
+ 
+  background-repeat: no-repeat;
+  background-color:black;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height:750px;
+  
+  width:100vw;
+  }
+
+  .flexTour> div,p{
+
+ 
+  text-align:center;
+  text-transform: uppercase;
+  color:white;
+  width:100vw;
+  height:5vh;
+  font-size:1em;
+  }
+
+ 
+
+  
+ .flexgallery{
+
+ display: flex;
+ background-color:Gold;
+ overflow-x:scroll;  
+ justify-content: space-around;
+ width:100vw;
+ font-size:20px;
+ height:450px;
+ }
+
+
+
+.flexVIDEOS{
+
+  display:flex;
+  background-color:greenyellow;
+  flex-wrap: wrap;
+  width:100vw;
+  font-size:16px;
+  font-family:"Goldman";
+  background-image:url("https://i.redd.it/0d3yp7uhmx811.png");
+  background-size : 1920px 350px;
+  justify-content: space-between;
+  
+ }
+
+ .vid{
+
+ height:315px;
+ width:700px;
+ margin-right:50px;
+ 
+ }
+ 
+
+  
+  
+ 
+
+
+ .flexMerch{
+   display: flex;
+   justify-content: center;
+   height:50px;
+   width:100vw;
+   flex-wrap:wrap-reverse;
+   margin-top:5px;
+   font-family: "goldman";
+  
+ }
+
+.flexMerch > p{
+
+  color:black;
+ }
+ 
+
+ @media only screen and (max-width: 750px) {
+  .MerchDisplay {
+     width:30%;
+    height:auto;
+ }
+ 
+
+.bg1{
+   
+   background-image:url("https://images.hdqwalls.com/download/twenty-one-pilots-5k-jz-1920x1080.jpg");
+   
+   
+   background-repeat: no-repeat;
+   
+  
+   width:100vw;
+   height:70vh;
+   
+   }
+
+   
+
+   
+  
+.overlay {
+    background-color: rgba(0, 0, 0, 0.4);
+    top: 0;
+    left: 0;
+    height:70vh;
+    
+    
+    }
+
+
+.bg1{
+ background-image:url("https://images.hdqwalls.com/download/twenty-one-pilots-5k-jz-1920x1080.jpg");
+   
+   
+   background-repeat: no-repeat;
+   
+  
+   width:100vw;
+   height:70vh;
+
+
+}
+    
+
+
+ }
