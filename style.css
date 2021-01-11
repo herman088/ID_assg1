@@ -132,7 +132,7 @@ body{
   
 
  
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
   .imageeAlbum {
      width:40%;
     height:auto}
@@ -145,10 +145,10 @@ body{
 
   .flexTour{
  
-  background-image:url("https://cdn.hipwallpaper.com/i/49/29/XsmDbQ.jpg");
+  background-image:url("https://www.teahub.io/photos/full/293-2936355_1920x1080-twenty-one-pilots-live-wallpapers-twenty-one.jpg");
  
   background-repeat: no-repeat;
-  
+  background-color:black;
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -229,7 +229,7 @@ body{
  }
  
 
- @media only screen and (max-width: 500px) {
+ @media only screen and (max-width: 700px) {
   .MerchDisplay {
      width:30%;
     height:auto;
