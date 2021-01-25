@@ -11,7 +11,7 @@
 # introduction
 This project is to design and create a  website for a band consisitng of 2 members,with an aim in mind for potential viewers/fans to better understand the band and their music . This project also aims to provide external links to the band's music , band's store and social media pages for users to explore and gain a deeper understanding of the band's music,band's personality.
 
-### Uploaded new css file on 11/1/2002 because old image used is deleted from website and commits have problems,edited network folder,approved by tutor
+### Uploaded new css file on 11/1/2002 because old image used is deleted from website edited network folder,approved by tutor
 
 # User stories
 * As a potential new fan , i want the website to be informative so i can better understand the band
